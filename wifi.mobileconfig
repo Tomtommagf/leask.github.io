@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>Any</string>
 			<key>HIDDEN_NETWORK</key>
@@ -32,7 +32,7 @@
 			<key>ProxyType</key>
 			<string>Auto</string>
 			<key>SSID_STR</key>
-			<string>ShawGo</string>
+			<string>ShawOpen</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
