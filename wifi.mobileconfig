@@ -6,13 +6,15 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>Any</string>
+                        <key>CaptiveBypass</key>
+			<string>true</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>Password</key>
-			<string>nopassword</string>
+			<string></string>
 			<key>PayloadDescription</key>
 			<string>Configures wireless connectivity settings.</string>
 			<key>PayloadDisplayName</key>
@@ -32,7 +34,7 @@
 			<key>ProxyType</key>
 			<string>Auto</string>
 			<key>SSID_STR</key>
-			<string>www.leaskh.com</string>
+			<string>ShawGo</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
