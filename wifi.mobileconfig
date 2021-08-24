@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>EncryptionType</key>
 			<string>Any</string>
 			<key>HIDDEN_NETWORK</key>
