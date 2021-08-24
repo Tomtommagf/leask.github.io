@@ -13,8 +13,6 @@
 			<false/>
                         <key>CaptiveBypass</key>
 			<true/>
-			<key>Password</key>
-			<string></string>
 			<key>PayloadDescription</key>
 			<string>Configures wireless connectivity settings.</string>
 			<key>PayloadDisplayName</key>
